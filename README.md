@@ -1,2 +1,2 @@
-# Expo_Hacks_2019
-The project built for a hackathon at Dublin High!
+# Hacks_2019
+The project was built for a hackathon!
