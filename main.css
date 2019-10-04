@@ -1,0 +1,51 @@
+html {
+    background-color: #d2b48c;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: block;
+}
+
+.missionStatement {
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: block;
+}
+
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 95%;
+    height: 700px;
+    display: block;
+}
+
+a {
+    display: block;
+    padding: 0.5%;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    background-color: #A65432;
+    border-color: #543210;
+    border-radius: 10px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+a:hover {
+    color: #A65432;
+    background-color: #ffffff;
+}
