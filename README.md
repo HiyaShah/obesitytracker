@@ -1,2 +1,2 @@
-# obesitytracker
-Built for a hackathon; regulates nutritional values across school districts
+# Expo_Hacks_2019
+The project built for a hackathon at Dublin High!
